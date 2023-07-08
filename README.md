@@ -11,19 +11,30 @@ the awesome work, project and lab of EDA. continue update...
 	
 - 开源代码
 	- P&R:
-		- MAGICAL: https://github.com/magical-eda/MAGICAL
+		- [MAGICAL](https://github.com/magical-eda/MAGICAL)
+    		    - Machine Generated Analog IC Layout
 	- Routing: 
-		- FastRoute: https://github.com/The-OpenROAD-Project-Attic/FastRoute
-		- NTHU: https://github.com/luckyrantanplan/nthu-route
-		- SAGERoute: https://github.com/PKU-IDEA/SAGERoute/tree/main
-		- Dr.CU: https://github.com/cuhk-eda/dr-cu
-		- Dr.GR: https://github.com/cuhk-eda/cu-gr
+		- [FastRoute](https://github.com/The-OpenROAD-Project-Attic/FastRoute)
+                    - A Step to Integrate Global Routing into Placement
+		- [NTHU](https://github.com/luckyrantanplan/nthu-route)
+    		    - A New Global Router for Modern Designs
+		- [SAGERoute](https://github.com/PKU-IDEA/SAGERoute/tree/main)
+                    - Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility
+		- [Dr.CU](https://github.com/cuhk-eda/dr-cu)
+                    - Dr. CU is a VLSI detailed routing tool
+		- [Dr.GR](https://github.com/cuhk-eda/cu-gr)
+                    - Dr. CU is a VLSI global routing tool
 	- placement:
-		- Xplace: https://github.com/cuhk-eda/Xplace
-		- RePlace: https://github.com/The-OpenROAD-Project/RePlAce
-		- DreamPlace: https://github.com/limbo018/DREAMPlace
-		- ePlace: https://github.com/ApeachM/ePlacePractice
-		- MacroPlacement: https://github.com/TILOS-AI-Institute/MacroPlacement
+		- [Xplace](https://github.com/cuhk-eda/Xplace)
+       		    - An Extremely Fast and Extensible Global Placement Framework
+		- [RePlace](https://github.com/The-OpenROAD-Project/RePlAce)
+      		    - Advancing Solution Quality and Routability Validation in Global Placement
+		- [DreamPlace](https://github.com/limbo018/DREAMPlace)
+       		    - Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement
+		- [ePlace](https://github.com/ApeachM/ePlacePractice)
+       		    - Electrostatics based Placement using Fast Fourier Transform and Nesterov’s Method
+		- [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement)
+    		    - Assessment of Reinforcement Learning for Macro Placement
 		
 		
 		
