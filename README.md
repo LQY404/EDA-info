@@ -3,13 +3,13 @@ the awesome work, project and lab of EDA. continue update...
 
 
 
-- 主要实验室：
+- Main EDA lab：
 	- [Bei Yu, The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk/~byu/)
 	- [Evangeline F.Y. Young, The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/~fyyoung/)
   - [Yibo Lin, The Peking Unbiversity](https://yibolin.com/)
   - [The UT Design Automation Laboratory (UTDA)](https://www.cerc.utexas.edu/utda/)
 	
-- 开源代码
+- source code(wo AI)
 	- P&R:
 		- [MAGICAL](https://github.com/magical-eda/MAGICAL)
     		    : Machine Generated Analog IC Layout
@@ -40,6 +40,12 @@ the awesome work, project and lab of EDA. continue update...
 		- [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement)
     		    : Assessment of Reinforcement Learning for Macro Placement
 		
-		
-		
+- AI based EDA
+  	- [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://github.com/magical-eda/UT-AnLay)
 	
+
+
+
+
+
+
