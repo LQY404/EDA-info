@@ -39,6 +39,11 @@ the awesome work, project and lab of EDA. continue update...
     		    : Electrostatics based Placement using Fast Fourier Transform and Nesterov’s Method
 		- [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement)
     		    : Assessment of Reinforcement Learning for Macro Placement
+	- analog layout generation
+		- [Laygo](https://laygo2.github.io/)
+    		    : A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies
+		- [BAG](https://github.com/sdaudlin/BAG_framework)
+    		    : A Process-Portable Framework for Generator-based AMS Circuit Design
 		
 - AI based EDA
   	- [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://github.com/magical-eda/UT-AnLay)
