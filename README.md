@@ -10,11 +10,6 @@ the awesome work, project and lab of EDA. continue update...
   - [The UT Design Automation Laboratory (UTDA)](https://www.cerc.utexas.edu/utda/)
 	
 - source code(wo AI)
-	- P&R:
-		- [MAGICAL](https://github.com/magical-eda/MAGICAL)
-    		    : Machine Generated Analog IC Layout
-		- [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)
-    		    : Analog Layout, Intelligently Generated from Netlists
 	- Routing: 
 		- [FastRoute](https://github.com/The-OpenROAD-Project-Attic/FastRoute)
     		    : A Step to Integrate Global Routing into Placement
@@ -44,6 +39,10 @@ the awesome work, project and lab of EDA. continue update...
     		    : A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies
 		- [BAG](https://github.com/sdaudlin/BAG_framework)
     		    : A Process-Portable Framework for Generator-based AMS Circuit Design
+		- [MAGICAL](https://github.com/magical-eda/MAGICAL)
+    		    : Machine Generated Analog IC Layout
+		- [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)
+    		    : Analog Layout, Intelligently Generated from Netlists
 		
 - AI based EDA
   	- [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://github.com/magical-eda/UT-AnLay)
