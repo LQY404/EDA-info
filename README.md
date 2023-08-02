@@ -23,6 +23,10 @@ the awesome work, project and lab of EDA. continue update...
     		    : Dr. CU is a VLSI global routing tool
 		- [Align](https://github.com/ALIGN-analoglayout/AnalogDetailedRouter)
     		    : analog detailed router
+		- [Electromigration- and Parasitic-Aware ILP-Based Analog Router](https://ieeexplore.ieee.org/abstract/document/8378047/)
+    		    : analog global router
+		- [Efficient ILP-Based Variant-Grid Analog Router](https://ieeexplore.ieee.org/abstract/document/7527478/)
+    		    : analog global router
 	- placement:
 		- [Xplace](https://github.com/cuhk-eda/Xplace)
     		    : An Extremely Fast and Extensible Global Placement Framework
