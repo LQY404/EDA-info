@@ -9,7 +9,7 @@ the awesome work, project and lab of EDA. continue update...
   - [Yibo Lin, The Peking Unbiversity](https://yibolin.com/)
   - [The UT Design Automation Laboratory (UTDA)](https://www.cerc.utexas.edu/utda/)
 	
-- source code(wo AI)
+- Placement and Routing
 	- Routing: 
 		- [FastRoute](https://github.com/The-OpenROAD-Project-Attic/FastRoute)
     		    : A Step to Integrate Global Routing into Placement
@@ -43,11 +43,14 @@ the awesome work, project and lab of EDA. continue update...
     		    : Machine Generated Analog IC Layout
 		- [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)
     		    : Analog Layout, Intelligently Generated from Netlists
-		
-- AI based EDA
-  	- [Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning](https://github.com/magical-eda/UT-AnLay)
-	
 
+- Analog Circuit Design Optimization
+	- [Multi-objective Bayesian Optimization for Analog/RF Circuit Synthesis](https://dl.acm.org/doi/abs/10.1145/3195970.3196078)
+	- [Automated Design of Analog Circuits Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9576505)
+	- [DNN-Opt: An RL Inspired Optimization for Analog Circuit Sizing using Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9586139)
+	- [MA-Opt: Reinforcement Learning-based Analog Circuit Optimization using Multi-Actors](https://ieeexplore.ieee.org/abstract/document/10136894)
+	- [DC-Model: A New Method for Assisting the Analog Circuit Optimization](https://ieeexplore.ieee.org/abstract/document/10129366)
+		
 
 
 
