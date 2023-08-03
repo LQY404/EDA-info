@@ -51,10 +51,15 @@ the awesome work, project and lab of EDA. continue update...
 - Analog Circuit Design Optimization
 	- [Multi-objective Bayesian Optimization for Analog/RF Circuit Synthesis](https://dl.acm.org/doi/abs/10.1145/3195970.3196078)
 	- [Automated Design of Analog Circuits Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9576505)
+   		- [code](https://github.com/ksettaluri6/AutoCkt)
 	- [DNN-Opt: An RL Inspired Optimization for Analog Circuit Sizing using Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9586139)
 	- [MA-Opt: Reinforcement Learning-based Analog Circuit Optimization using Multi-Actors](https://ieeexplore.ieee.org/abstract/document/10136894)
 	- [DC-Model: A New Method for Assisting the Analog Circuit Optimization](https://ieeexplore.ieee.org/abstract/document/10129366)
    	- [An efficient batch-constrained bayesian optimization approach for analog circuit synthesis via multiobjective acquisition ensemble](https://ieeexplore.ieee.org/abstract/document/9336041)
+   	- [Batch Bayesian optimization via multi-objective acquisition ensemble for automated analog circuit design](http://proceedings.mlr.press/v80/lyu18a.html?ref=https://githubhelp.com)
+   	  	- [code](https://github.com/Alaya-in-Matrix/MACE)
+   	- [Geometric programming for circuit optimization](https://dl.acm.org/doi/abs/10.1145/1055137.1055148)
+   	- [A tutorial on geometric programming](https://link.springer.com/article/10.1007/s11081-007-9001-7)
 		
 
 
