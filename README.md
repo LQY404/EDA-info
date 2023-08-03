@@ -54,6 +54,7 @@ the awesome work, project and lab of EDA. continue update...
 	- [DNN-Opt: An RL Inspired Optimization for Analog Circuit Sizing using Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9586139)
 	- [MA-Opt: Reinforcement Learning-based Analog Circuit Optimization using Multi-Actors](https://ieeexplore.ieee.org/abstract/document/10136894)
 	- [DC-Model: A New Method for Assisting the Analog Circuit Optimization](https://ieeexplore.ieee.org/abstract/document/10129366)
+   	- [An efficient batch-constrained bayesian optimization approach for analog circuit synthesis via multiobjective acquisition ensemble](https://ieeexplore.ieee.org/abstract/document/9336041)
 		
 
 
