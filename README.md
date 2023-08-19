@@ -47,6 +47,8 @@ the awesome work, project and lab of EDA. continue update...
     		    : Machine Generated Analog IC Layout
 		- [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)
     		    : Analog Layout, Intelligently Generated from Netlists
+		- [Symmetry Annotation Extraction](https://doi.org/10.1145/3394885.3431545)
+    		    : Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks
 
 - Analog Circuit Design Optimization
 	- [Multi-objective Bayesian Optimization for Analog/RF Circuit Synthesis](https://dl.acm.org/doi/abs/10.1145/3195970.3196078)
