@@ -39,6 +39,8 @@ the awesome work, project and lab of EDA. continue update...
     		    : Electrostatics based Placement using Fast Fourier Transform and Nesterov’s Method
 		- [MacroPlacement](https://github.com/TILOS-AI-Institute/MacroPlacement)
     		    : Assessment of Reinforcement Learning for Macro Placement
+		- [MaskPlace](https://github.com/laiyao1/maskplace)
+  		    : Fast Chip Placement via Reinforced Visual Representation Learning
 	- analog layout generation
 		- [Laygo](https://laygo2.github.io/)
     		    : A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies
@@ -63,6 +65,10 @@ the awesome work, project and lab of EDA. continue update...
    	  	- [code](https://github.com/Alaya-in-Matrix/MACE)
    	- [Geometric programming for circuit optimization](https://dl.acm.org/doi/abs/10.1145/1055137.1055148)
    	- [A tutorial on geometric programming](https://link.springer.com/article/10.1007/s11081-007-9001-7)
+   	- [Late Breaking Results: Analog Circuit Generator based on Deep Neural Network enhanced Combinatorial Optimization](https://dl.acm.org/doi/abs/10.1145/3316781.3322468)
+   	- [Learning to Design Circuits](https://arxiv.org/abs/1812.02734)
+   	- [GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9218757/)
+   	- [Closing the Design Loop: Bayesian Optimization AssistedHierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/abstract/document/9218621/)
 		
 
 
