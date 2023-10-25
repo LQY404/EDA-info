@@ -69,7 +69,11 @@ the awesome work, project and lab of EDA. continue update...
    	- [Learning to Design Circuits](https://arxiv.org/abs/1812.02734)
    	- [GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9218757/)
    	- [Closing the Design Loop: Bayesian Optimization AssistedHierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/abstract/document/9218621/)
-		
+- Layout Pattern Generation
+  	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
+  	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
+  	- [LayouTransformer: Generating Layout Patterns with Transformer via Sequential Pattern Modeling](https://dl.acm.org/doi/abs/10.1145/3508352.3549350)
+  	- [DiffPattern : Layout Pattern Generation via Discrete Diffusion](https://arxiv.org/abs/2303.13060)
 
 
 
