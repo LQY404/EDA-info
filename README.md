@@ -75,7 +75,20 @@ the awesome work, project and lab of EDA. continue update...
   	- [LayouTransformer: Generating Layout Patterns with Transformer via Sequential Pattern Modeling](https://dl.acm.org/doi/abs/10.1145/3508352.3549350)
   	- [DiffPattern : Layout Pattern Generation via Discrete Diffusion](https://arxiv.org/abs/2303.13060)
 
-
+- Pattern Layout Hotspot Dectection
+  	- [Efficient Hotspot Detection via Graph Neural Network](https://ieeexplore.ieee.org/document/9774579)
+  	- [Efficient Layout Hotspot Detection via Neural Architecture Search](https://dl.acm.org/doi/10.1145/3517130)
+  	- [Hotspot Detection via Attention-Based Deep Layout Metric Learning](https://doi.org/10.1145/3517130)
+  	- [Faster Region-based Hotspot Detection](https://doi.org/10.1145/3316781.3317824)
+  	  	- [code](https://github.com/Lanselott/R-HSD)
+  	- [Efficient Layout Hotspot Detection via Binarized Residual Neural Network](https://doi.org/10.1145/3316781.3317811)
+  	- [Hotspot Detection using Squish-Net](https://doi.org/10.1117/12.2515172)
+  	- [Detecting multi-layer layout hotspots with adaptive squish patterns](https://dl.acm.org/doi/10.1145/3287624.3288747)
+  	- [Layout Hotspot Detection With Feature Tensor Generation and Deep Biased Learning](https://ieeexplore.ieee.org/document/8360060/)
+  	  	- [code](https://github.com/phdyang007/dlhsd)
+  	- [Lithography Hotspot Detection: From Shallow To Deep Learning](https://doi.org/10.1109/SOCC.2017.8226047)
+  	- [Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning](https://dl.acm.org/doi/10.1145/3061639.3062270)
+  	- [Bilinear Lithography Hotspot Detection](https://dl.acm.org/doi/10.1145/3036669.3036673)
 
 
 
