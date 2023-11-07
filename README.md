@@ -28,6 +28,7 @@ the awesome work, project and lab of EDA. continue update...
     		    : analog global router
 		- [Efficient ILP-Based Variant-Grid Analog Router](https://ieeexplore.ieee.org/abstract/document/7527478/)
     		    : analog global router
+		- Reinforcement Learning Guided Detailed Routing for Custom Circuits
 	- placement:
 		- [Xplace](https://github.com/cuhk-eda/Xplace)
     		    : An Extremely Fast and Extensible Global Placement Framework
@@ -69,11 +70,13 @@ the awesome work, project and lab of EDA. continue update...
    	- [Learning to Design Circuits](https://arxiv.org/abs/1812.02734)
    	- [GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9218757/)
    	- [Closing the Design Loop: Bayesian Optimization AssistedHierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/abstract/document/9218621/)
+   	- [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/9474253)
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
   	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
   	- [LayouTransformer: Generating Layout Patterns with Transformer via Sequential Pattern Modeling](https://dl.acm.org/doi/abs/10.1145/3508352.3549350)
   	- [DiffPattern : Layout Pattern Generation via Discrete Diffusion](https://arxiv.org/abs/2303.13060)
+  	- [WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://dl.acm.org/doi/10.1145/3316781.3317930)
 
 - Pattern Layout Hotspot Dectection
   	- [Efficient Hotspot Detection via Graph Neural Network](https://ieeexplore.ieee.org/document/9774579)
@@ -89,6 +92,7 @@ the awesome work, project and lab of EDA. continue update...
   	- [Lithography Hotspot Detection: From Shallow To Deep Learning](https://doi.org/10.1109/SOCC.2017.8226047)
   	- [Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning](https://dl.acm.org/doi/10.1145/3061639.3062270)
   	- [Bilinear Lithography Hotspot Detection](https://dl.acm.org/doi/10.1145/3036669.3036673)
+  	- [ADAPT: An Adaptive Machine Learning Framework with Application to Lithography Hotspot Detection](https://ieeexplore.ieee.org/abstract/document/9531210/)
 
 
 
