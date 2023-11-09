@@ -9,7 +9,9 @@ the awesome work, project and lab of EDA. continue update...
   - [Yibo Lin, The Peking Unbiversity](https://yibolin.com/)
   - [The UT Design Automation Laboratory (UTDA)](https://www.cerc.utexas.edu/utda/)
   - [iEDA](https://github.com/OSCC-Project/iEDA)
-	
+
+- Overview:
+  - [Machine learning and algorithms: Let us team up for EDA](https://ieeexplore.ieee.org/abstract/document/9682429/)
 - Placement and Routing
 	- Routing: 
 		- [FastRoute](https://github.com/The-OpenROAD-Project-Attic/FastRoute)
@@ -71,6 +73,8 @@ the awesome work, project and lab of EDA. continue update...
    	- [GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9218757/)
    	- [Closing the Design Loop: Bayesian Optimization AssistedHierarchical Analog Layout Synthesis](https://ieeexplore.ieee.org/abstract/document/9218621/)
    	- [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/9474253)
+   	- [Joint optimization of sizing and layout for AMS designs: Challenges and opportunities](https://dl.acm.org/doi/abs/10.1145/3569052.3578929)
+   	- [Analog circuit sizing based on Evolutionary Algorithms and deep learning](https://www.sciencedirect.com/science/article/pii/S0957417423019826)
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
   	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
