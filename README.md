@@ -1,8 +1,6 @@
 # EDA-info
 the awesome work, project and lab of EDA. continue update...
 
-
-
 - Main EDA lab and open-source project：
   - [Bei Yu, The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk/~byu/)
   - [Evangeline F.Y. Young, The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/~fyyoung/)
