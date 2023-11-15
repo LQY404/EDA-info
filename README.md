@@ -30,6 +30,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
     		    : analog global router
 		- Reinforcement Learning Guided Detailed Routing for Custom Circuits
 		- [Pathfinding Model and Lagrangian-Based Global Routing](https://doi.org/10.1109/DAC56929.2023.10247969)
+		- [PROS 2.0: A Plug-In for Routability Optimization and Routed Wirelength Estimation Using Deep Learning](https://doi.org/10.1109/TCAD.2022.3168259)
 	- placement:
 		- [Xplace](https://github.com/cuhk-eda/Xplace)
     		    : An Extremely Fast and Extensible Global Placement Framework
