@@ -29,6 +29,7 @@ the awesome work, project and lab of EDA. continue update...
 		- [Efficient ILP-Based Variant-Grid Analog Router](https://ieeexplore.ieee.org/abstract/document/7527478/)
     		    : analog global router
 		- Reinforcement Learning Guided Detailed Routing for Custom Circuits
+		- [Pathfinding Model and Lagrangian-Based Global Routing](https://doi.org/10.1109/DAC56929.2023.10247969)
 	- placement:
 		- [Xplace](https://github.com/cuhk-eda/Xplace)
     		    : An Extremely Fast and Extensible Global Placement Framework
@@ -73,6 +74,8 @@ the awesome work, project and lab of EDA. continue update...
    	- [Parasitic-Aware Analog Circuit Sizing with Graph Neural Networks and Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/9474253)
    	- [Joint optimization of sizing and layout for AMS designs: Challenges and opportunities](https://dl.acm.org/doi/abs/10.1145/3569052.3578929)
    	- [Analog circuit sizing based on Evolutionary Algorithms and deep learning](https://www.sciencedirect.com/science/article/pii/S0957417423019826)
+   	- [Reinforcement Learning-based Analog Circuit Optimizer using gm/ID for Sizing](https://ieeexplore.ieee.org/document/10247739)
+   	- [Automated Design of Complex Analog Circuits with Multiagent based Reinforcement Learning](https://ieeexplore.ieee.org/document/10247909)
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
   	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
