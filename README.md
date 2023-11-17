@@ -31,6 +31,9 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
 		- Reinforcement Learning Guided Detailed Routing for Custom Circuits
 		- [Pathfinding Model and Lagrangian-Based Global Routing](https://doi.org/10.1109/DAC56929.2023.10247969)
 		- [PROS 2.0: A Plug-In for Routability Optimization and Routed Wirelength Estimation Using Deep Learning](https://doi.org/10.1109/TCAD.2022.3168259)
+		- [GAMER: GPU-Accelerated Maze Routing](https://doi.org/10.1109/TCAD.2022.3184281)
+		- [COALA: Concurrently Assigning Wire Segments to Layers for 2-D Global Routing](https://doi.org/10.1109/TCAD.2022.3178353)
+		- [Incremental 3-D Global Routing Considering Cell Movement and Complex Routing Constraints](https://doi.org/10.1109/TCAD.2022.3210493)
 	- placement:
 		- [Xplace](https://github.com/cuhk-eda/Xplace)
     		    : An Extremely Fast and Extensible Global Placement Framework
@@ -55,6 +58,8 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
     		    : Analog Layout, Intelligently Generated from Netlists
 		- [Symmetry Annotation Extraction](https://doi.org/10.1145/3394885.3431545)
     		    : Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks
+		- [Interactive Analog Layout Editing With Instant Placement and Routing Legalization](https://ieeexplore.ieee.org/document/9826897)
+    	
 
 - Analog Circuit Design Optimization
 	- [Multi-objective Bayesian Optimization for Analog/RF Circuit Synthesis](https://dl.acm.org/doi/abs/10.1145/3195970.3196078)
