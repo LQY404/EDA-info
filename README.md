@@ -86,6 +86,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
    	- [Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical Design Space and Sparse Rewards](https://dl.acm.org/doi/10.1145/3551901.3556474)
    	- [LinEasyBO: Scalable Bayesian Optimization Approach for Analog Circuit Synthesis via One-Dimensional Subspaces](https://dl.acm.org/doi/10.1145/3551901.3556496)
    	- [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://dl.acm.org/doi/10.1145/3551901.3556487)
+   	- [Bayesian Methods for the Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/document/9045614)
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
   	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
