@@ -47,6 +47,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
     		    : Assessment of Reinforcement Learning for Macro Placement
 		- [MaskPlace](https://github.com/laiyao1/maskplace)
   		    : Fast Chip Placement via Reinforced Visual Representation Learning
+		- [RLPlace: Deep RL Guided Heuristics for Detailed Placement Optimization](https://doi.org/10.23919/DATE54114.2022.9774684)
 	- analog layout generation
 		- [Laygo](https://laygo2.github.io/)
     		    : A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies
@@ -104,6 +105,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
   	- [Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning](https://dl.acm.org/doi/10.1145/3061639.3062270)
   	- [Bilinear Lithography Hotspot Detection](https://dl.acm.org/doi/10.1145/3036669.3036673)
   	- [ADAPT: An Adaptive Machine Learning Framework with Application to Lithography Hotspot Detection](https://ieeexplore.ieee.org/abstract/document/9531210/)
+  	- [Many-Layer Hotspot Detection by Layer-Attentioned Visual Question Answering](https://doi.org/10.23919/DATE54114.2022.9774622)
 
 
 
