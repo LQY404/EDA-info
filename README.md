@@ -7,6 +7,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
   - [Yibo Lin, The Peking Unbiversity](https://yibolin.com/)
   - [The UT Design Automation Laboratory (UTDA)](https://www.cerc.utexas.edu/utda/)
   - [iEDA](https://github.com/OSCC-Project/iEDA)
+  - [Xuan Zeng, The Fudan Unbiversity](https://ieeexplore.ieee.org/author/37272246100?history=no&highlight=true&returnType=SEARCH&sortType=newest&searchWithin=%22Author%20Ids%22:37272246100&returnFacets=ALL)
 
 - Overview:
   - [Machine learning and algorithms: Let us team up for EDA](https://ieeexplore.ieee.org/abstract/document/9682429/)
@@ -48,6 +49,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
 		- [MaskPlace](https://github.com/laiyao1/maskplace)
   		    : Fast Chip Placement via Reinforced Visual Representation Learning
 		- [RLPlace: Deep RL Guided Heuristics for Detailed Placement Optimization](https://doi.org/10.23919/DATE54114.2022.9774684)
+		- [Parallel Global Placement on CPU via Parallel Reduction](https://ieeexplore.ieee.org/document/8983444/)
 	- analog layout generation
 		- [Laygo](https://laygo2.github.io/)
     		    : A Template-and-Grid-Based Layout Generation Engine for Advanced CMOS Technologies
@@ -88,6 +90,12 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
    	- [RobustAnalog: Fast Variation-Aware Analog Circuit Design Via Multi-task RL](https://dl.acm.org/doi/10.1145/3551901.3556487)
    	- [Bayesian Methods for the Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/document/9045614)
    	- [Bayesian optimization approach for analog circuit synthesis using neural network](https://ieeexplore.ieee.org/abstract/document/8714788)
+   	- [A Novel and Efficient Bayesian Optimization Approach for Analog Designs with Multi-Testbench](https://ieeexplore.ieee.org/document/9712590/)
+   	- [High-Dimensional Bayesian Optimization for Automated Analog Circuit Design via Add-Graph Structure](https://ieeexplore.ieee.org/document/9620425)
+   	- [A Robust Batch Bayesian Optimization for Analog Circuit Synthesis via Local Penalization](https://ieeexplore.ieee.org/document/9371542)
+   	- [An Efficient Asynchronous Batch Bayesian Optimization Approach for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/9218592)
+   	- [A Mixed-Variable Bayesian Optimization Approach for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/9181162)
+
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
   	- [Layout Pattern Generation and Legalization with Generative Learning Models](https://dl.acm.org/doi/abs/10.1145/3400302.3415607)
@@ -111,6 +119,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
   	- [Bilinear Lithography Hotspot Detection](https://dl.acm.org/doi/10.1145/3036669.3036673)
   	- [ADAPT: An Adaptive Machine Learning Framework with Application to Lithography Hotspot Detection](https://ieeexplore.ieee.org/abstract/document/9531210/)
   	- [Many-Layer Hotspot Detection by Layer-Attentioned Visual Question Answering](https://doi.org/10.23919/DATE54114.2022.9774622)
+  	- [Efficient Layout Hotspot Detection via Binarized Residual Neural Network](https://ieeexplore.ieee.org/document/8806978/)
 
 
 
