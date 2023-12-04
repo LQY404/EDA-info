@@ -96,6 +96,7 @@ the awesome work, project and lab of EDA (Electronic Design Automation). continu
    	- [A Robust Batch Bayesian Optimization for Analog Circuit Synthesis via Local Penalization](https://ieeexplore.ieee.org/document/9371542)
    	- [An Efficient Asynchronous Batch Bayesian Optimization Approach for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/9218592)
    	- [A Mixed-Variable Bayesian Optimization Approach for Analog Circuit Synthesis](https://ieeexplore.ieee.org/document/9181162)
+   	- [APOSTLE: Asynchronously Parallel Optimization for Sizing Analog Transistors using DNN Learning](https://dl.acm.org/doi/abs/10.1145/3566097.3567880)
 
 - Layout Pattern Generation
   	- [DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder](https://dl.acm.org/doi/abs/10.1145/3316781.3317795)
