@@ -1,5 +1,6 @@
 # EDA-info
 the awesome work, project and lab of EDA (Electronic Design Automation). continue update...
+(Because of personal reasons, we will not continue update...)
 
 - Main EDA lab and open-source project：
   - [Bei Yu, The Chinese University of Hong Kong](http://www.cse.cuhk.edu.hk/~byu/)
